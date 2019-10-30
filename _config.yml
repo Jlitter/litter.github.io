@@ -1,0 +1,26 @@
+# Welcome to Chinaxiang' personal page!
+lang: zh_CN
+title: litter的个人网站
+author: litter
+email: 893125935@qq.com
+description: > 
+  litter
+baseurl: ""
+url: "https://jlitter.github.io/"
+github_username:  Jlitter
+twitter_username: ""
+
+minima:
+  date_format: "%b %-d, %Y"
+
+timezone: Asia/Shanghai
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 15
+paginate_path: "/blog/p:num"

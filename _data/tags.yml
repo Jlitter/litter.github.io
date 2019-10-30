@@ -1,0 +1,23 @@
+- url: /tag/jekyll
+  name: Jekyll
+
+- url: /tag/java
+  name: Java
+
+- url: /tag/go
+  name: GO
+
+- url: /tag/js
+  name: JS
+
+- url: /tag/python
+  name: Python
+
+- url: /tag/k8s
+  name: 容器化
+
+- url: /tag/tools
+  name: 工具
+
+- url: /tag/search
+  name: 搜索
